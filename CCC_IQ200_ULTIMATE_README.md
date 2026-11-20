@@ -618,7 +618,7 @@ if self.file_hunter and HAS_FILE_HUNTER:
 
 ## 📊 Test Sonuçları
 
-### Gerçek Target: bereket.com.tr
+### Gerçek Target: test.com.tr
 
 ```json
 {
